@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SuperFast Video Downloader</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="str_developed_with_love">Developed with ❤ in <b>Indonesian</b></string>
+
+    <string name="channel_name">SuperFast Channel</string>
+    <string name="channel_description">SuperFast channel_description</string>
+    <string name="info_permission_denied">Sorry permission denied.We can not open this app on your device, please try again later.</string>
+    <string name="format_request_permision">%1$s will need to have read/write permission your sdcard to save Files.Do you want to grant it?</string>
+
+    <string name="AdmobBanner">ca-app-pub-2222072301594657/1428852036</string>
+    <string name="AdmobInterstitial">ca-app-pub-2222072301594657/7802688693</string>
+
+
+    <string name="SharingVideoSubject">Sharing Downloaded Video</string>
+    <string name="SharingVideoTitle">Sharing Video</string>
+    <string name="SharingVideoBody">Sharing Video File</string>
+
+    <string name="RateAppTitle">Like this app?</string>
+    <string name="RateApp">Share the love by rating 5 stars in Play Store. 😘</string>
+</resources>
